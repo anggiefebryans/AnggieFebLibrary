@@ -31,8 +31,8 @@ public class Matematika {
     public double getKali(){
         return bil1*bil2;
     }
-    public double getBagi(){
-        return bil1/bil2;
+    public double getBagi() {
+        return bil1 / bil2;
     }
 
 
